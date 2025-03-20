@@ -429,7 +429,7 @@ pre{
 .first-row input{
     margin-left: 2%;
     height: 44px;
-    width: 350px;
+    width: 400px;
     background: transparent;
     box-shadow: none;
     border: 1px solid #625b4b;
@@ -456,7 +456,7 @@ input[type=text] {
 .second-row input{
     margin-left: 2%;
     height: 44px;
-    width: 350px;
+    width: 400px;
     background: transparent;
     box-shadow: none;
     border: 1px solid #625b4b;
